@@ -1,0 +1,75 @@
+
+main {
+    width: 90%;
+    margin:auto;}
+    
+    .config{
+        width: 250px; height: 250px; }
+
+    h1{
+color:rgb(38, 2, 59); 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center; font-size: 56px;
+text-shadow: 2px 2px 2px 2px blueviolet;}
+
+h3{ 
+color:darkmagenta; font-style: italic; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+font-size: small;}
+
+h2{
+    color:blueviolet; 
+    border-bottom: 2px solid whitesmoke ;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color: rgb(230, 215, 223);
+     padding:10px;
+     text-align: center;
+     margin-top: 0;}
+
+     .descricao{
+        font-style: oblique;font-size: 18px;font-weight: lighter;color:#d12078;}
+
+.menu nav ul{
+    text-align: right;
+    margin:20px 80px 0 0}
+
+.menu nav li{
+    list-style-type: none;
+    display: inline-block;
+    border: 1px solid whitesmoke;
+    margin-left: 26px;}
+
+.menu nav a{
+    background-color:whitesmoke ;
+    padding: 14px;
+    display: block;
+    text-decoration: none;
+    color: blueviolet;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1.5px;}
+    
+.objeto ul li {
+    list-style: none; 
+    color:deeppink; 
+    font-size: large;
+    text-decoration: underline;}
+
+
+article{ 
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-bottom: 32px;
+    margin-top: 32px;}
+
+    
+.rodape {
+    color:pink;
+    background-color:blueviolet;
+    text-align: center;
+    padding: 15px;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 2px;}
+
+
